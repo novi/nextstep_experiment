@@ -1,0 +1,18 @@
+INSTALLDIR = "$(HOME)/bin";
+COMPILEROPTIONS = "";
+GENERATEMAIN = YES;
+DOCICONFILES = ();
+FILESTABLE = {
+    OTHER_SOURCES = (Makefile.preamble, Makefile, Makefile.postamble);
+    LIBRARYSEARCH = ();
+    H_FILES = ();
+    CLASSES = (main.m);
+};
+DOCEXTENSIONS = ();
+LINKEROPTIONS = "";
+PROJECTTYPE = Tool;
+PROJECTVERSION = 1.1;
+LOCALIZABLE_FILES = {
+};
+PROJECTNAME = soundvolume;
+LANGUAGE = Japanese;
